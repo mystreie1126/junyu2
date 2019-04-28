@@ -1,0 +1,143 @@
+@-webkit-keyframes pulse {
+    0% {
+      -webkit-box-shadow: 0 0 0 0 rgba(204,169,44, 0.4);
+    }
+    70% {
+        -webkit-box-shadow: 0 0 0 10px rgba(204,169,44, 0);
+    }
+    100% {
+        -webkit-box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+    }
+  }
+  @keyframes pulse {
+    0% {
+      -moz-box-shadow: 0 0 0 0 rgba(204,169,44, 0.4);
+      box-shadow: 0 0 0 0 rgba(204,169,44, 0.4);
+    }
+    70% {
+        -moz-box-shadow: 0 0 0 10px rgba(204,169,44, 0);
+        box-shadow: 0 0 0 10px rgba(204,169,44, 0);
+    }
+    100% {
+        -moz-box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+        box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+    }
+  }
+  
+  #immigration{
+    animation:pulse 1s infinite;
+  }
+  
+  #about .description {
+    text-align: left;
+  }
+  
+  .each_question{
+    margin-bottom: 0;
+  }
+  
+  .list_items{
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .italic{
+     font-style: italic;
+  }
+  
+  #address{
+    text-align: left;
+  }
+  /*.description_header{
+    font-style: italic;
+  }*/
+  
+  .service_details{
+    display: flex;
+    align-items: center;
+  }
+  
+  
+  .primary-overlay {
+    background: rgba(63, 57, 77, 0.4);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  #highlight_text{
+    display: flex;
+    align-items: center;
+  }
+  
+  .bold{
+    font-weight: bolder;
+  }
+  
+  .left-part,.right-part{
+    }
+  
+  .left-part p:not(:first-child){
+    margin-top: 40px;
+  }
+  
+  .main-header {
+    background: url(../img/showcase.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    min-height: 600px;
+    color: #fff;
+    position: relative;
+  }
+  
+  .main-header .showcase {
+    padding-top: 110px;
+  }
+  
+  .scroll-icon {
+    position: absolute;
+    bottom: 5%;
+    left: 47%;
+    opacity: 0.5;
+  }
+  
+  .box {
+    padding: 20px 10px !important;
+  }
+  
+  .box h4 {
+    padding-bottom: 20px;
+  }
+  
+  .section-boxes .row {
+    margin-bottom: 0 !important;
+  }
+  
+  .section-contact {
+    position: relative;
+  }
+  
+  .section-contact .card-panel {
+    position: relative;
+    z-index: 1;
+  }
+  
+  #googlemap {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 0;
+  }
+  
+  @media (max-width: 600px) {
+    .main-header {
+      height: 50vh;
+    }
+  }
+  
