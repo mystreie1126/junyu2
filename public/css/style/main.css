@@ -79,6 +79,14 @@
   .bold{
     font-weight: bolder;
   }
+
+  #qr{
+    height:100%;
+    border:1px solid red;
+    background: url('../../img/qr.jpeg');
+    background-size: cover;
+    /* transform: translateY(100%); */
+  }
   
   .left-part,.right-part{
     }
