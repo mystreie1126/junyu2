@@ -62,7 +62,7 @@
   
   
   .primary-overlay {
-    background: rgba(63, 57, 77, 0.5);
+    background: rgba(63, 57, 77, 0.6);
     position: absolute;
     top: 0;
     left: 0;
@@ -81,11 +81,13 @@
   }
 
   #qr{
-    height:100%;
-    border:1px solid red;
-    background: url('../../img/qr.jpeg');
-    background-size: cover;
-    /* transform: translateY(100%); */
+      transform: translate(-40px,-20px);
+  }
+
+  #qr img{
+    width:130px;
+    height:130px;
+    object-fit: contain;
   }
   
   .left-part,.right-part{
@@ -98,7 +100,7 @@
   .main-header {
     background: url(../../img/ireland.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: 50% 40%;
     height: 100vh;
     min-height: 600px;
     color: #fff;
