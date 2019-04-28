@@ -61,7 +61,7 @@
                 <div class="col s12 ">
                   <h1>凤凰移民服务有限公司</h1>
                   <p class="flow-text">凤凰移民服务有限公司是爱尔兰第一家综合性移民服务机构，我们的团队成员有着多年的工作经验和丰富的专业知识，与移民局，劳工部，社会福利局长期保持着沟通互动关系，第一时间掌握最新官方政策动向，依据最新条款为您在爱遇到的各个方面问题提供最有效的解决方案。</p>
-                  <a class="btn red btn-large right" id="immigration">凤凰移民入籍专家</a></p>
+                  <a class="btn red btn-large right" id="immigration" href="#apply_immigration">凤凰移民入籍专家</a></p>
                   <a class="waves-effect waves-light btn-large modal-trigger  white black-text" href="#modal1">为什么选择我们</a>
 
                   <a href="#contact" class="white-text">
