@@ -3,6 +3,9 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="爱尔兰移民">
+        <meta name="keywords" content="爱尔兰，移民，凤凰移民，入籍">
+        <meta name="author" content="凤凰移民">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <!--Import materialize.css-->
