@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="description" content="爱尔兰移民">
-        <meta name="keywords" content="爱尔兰，移民，凤凰移民，入籍">
+        <meta name="keywords" content="爱尔兰，投资移民，凤凰移民，入籍">
         <meta name="author" content="凤凰移民">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -63,7 +63,7 @@
               <div class="row">
                 <div class="col s12 ">
                   <h1>凤凰移民服务有限公司</h1>
-                  <p class="flow-text">凤凰移民服务有限公司是爱尔兰第一家综合性移民服务机构，我们的团队成员有着多年的工作经验和丰富的专业知识，与移民局，劳工部，社会福利局长期保持着沟通互动关系，第一时间掌握最新官方政策动向，依据最新条款为您在爱遇到的各个方面问题提供最有效的解决方案。</p>
+                  <p class="flow-text">凤凰移民服务有限公司成立于2019年是爱尔兰第一家综合性移民服务公司。公司本着诚信、专业的服务宗旨，致力于打造成爱尔兰最完整的服务平台，为在爱的新老移民提供高效率全方面的服务。</p>
                   <a class="btn red btn-large right" id="immigration" href="#apply_immigration">凤凰移民入籍专家</a></p>
                   <a class="waves-effect waves-light btn-large modal-trigger  white black-text" href="#modal1">为什么选择我们</a>
 
