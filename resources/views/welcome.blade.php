@@ -82,7 +82,7 @@
     
   </div>
         <!-- Section: Boxes -->
-        <section class="section-boxes center">
+        <div class="section-boxes center">
           <div class="row">
             <div class="col s12 m6 l3 blue white-text box">
               <i class="material-icons medium">show_chart</i>
@@ -101,7 +101,7 @@
               <h4>其它服务</h4>
             </div>
           </div>
-        </section>
+        </div>
       
         <!-- Section: About -->
         <section id="apply_immigration" class="section section-about grey lighten-3 center scrollspy">
@@ -110,7 +110,7 @@
           <div class="row">
 
               <div class="col s12 m6 l6 left-part">
-                 
+                    <p class="bold italic">入籍服务包括:</p>
                     
                   
                  

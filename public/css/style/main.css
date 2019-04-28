@@ -41,6 +41,9 @@
     margin-bottom: 5px;
   }
   
+  section:not(:first-of-type){
+      padding-top: 60px;
+  }
   .italic{
      font-style: italic;
   }
@@ -48,9 +51,9 @@
   #address{
     text-align: left;
   }
-  /*.description_header{
-    font-style: italic;
-  }*/
+  .description_header{
+    text-align: left;
+  }
   
   .service_details{
     display: flex;
@@ -80,8 +83,8 @@
   .left-part,.right-part{
     }
   
-  .left-part p:not(:first-child){
-    margin-top: 40px;
+  .left-part p:not(:first-of-type){
+    margin-top: 30px;
   }
   
   .main-header {
