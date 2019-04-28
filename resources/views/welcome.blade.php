@@ -62,8 +62,8 @@
                   <h1>凤凰移民服务有限公司</h1>
                   <p class="flow-text">凤凰移民服务有限公司是爱尔兰第一家综合性移民服务机构，我们的团队成员有着多年的工作经验和丰富的专业知识，与移民局，劳工部，社会福利局长期保持着沟通互动关系，第一时间掌握最新官方政策动向，依据最新条款为您在爱遇到的各个方面问题提供最有效的解决方案。</p>
                   <a class="btn red btn-large right" id="immigration">凤凰移民入籍专家</a></p>
-                
-                  <a href="#about" class="btn btn-large white black-text">Learn More</a>
+                  <a class="waves-effect waves-light btn-large modal-trigger  white black-text" href="#modal1">为什么选择我们</a>
+
                   <a href="#contact" class="white-text">
                     <i class="material-icons medium scroll-icon">arrow_drop_down_circle</i>
                   </a>
@@ -72,7 +72,15 @@
             </div>
           </div>
         </header>
-      
+        
+
+  <!-- Modal Structure -->
+  <div id="modal1" class="modal">
+    <div class="modal-content">
+      <p>凤凰移民服务有限公司是爱尔兰第一家<span class="red-text text-lighten-1">综合性移民服务机构</span>，我们的团队成员有着多年的工作经验和丰富的专业知识，与移民局，劳工部，社会福利局长期保持着沟通互动关系，第一时间掌握最新官方政策动向，依据最新条款为您在爱遇到的各个方面问题提供最有效的解决方案。</p>
+    </div>
+    
+  </div>
         <!-- Section: Boxes -->
         <section class="section-boxes center">
           <div class="row">
@@ -101,7 +109,7 @@
           <h4>入籍申请服务</h4>
           <div class="row">
 
-              <div class="col s6 left-part">
+              <div class="col s12 m6 l6 left-part">
                  
                     
                   
@@ -117,7 +125,7 @@
                
                  
                 </div>  
-                <div class="col s6 right-part">
+                <div class="col s12 m6 l6 right-part">
                 <p class="bold italic">关于入籍的常见问题:</p>
                 <ul class="collapsible popout" data-collapsible="accordion" class="each_question">
                   <li class="description">
@@ -229,8 +237,9 @@
         <section id="visa">
           <div class="container row">
             <div class="col s12 m6 l6">
-              <h4>签证申请服务</h4>
+              
               <div class="row">
+                <h4>签证申请服务</h4>
                   <p class="service_details col s6"><i class="material-icons teal-text">star</i>合法身份特殊S1签证申请</span></p>
                   <p class="service_details col s6"><i class="material-icons teal-text">star</i>工作许可申请</span></p>
                   <p class="service_details col s8"><i class="material-icons teal-text">star</i>配偶/孩子家庭团聚申请&上诉</span></p>
@@ -284,7 +293,7 @@
           </div>
       </section>
       
-      <section class=" grey lighten-3" id="other">
+      <section class=" grey lighten-3" id="other" style="padding-bottom:15px">
         <div class="container row">
         
       
@@ -310,7 +319,7 @@
       
         <div class="col s12" style="margin-bottom: 0">
           
-        </style>>
+        
            
             <h5>我们的费用</h5>
             <blockquote>
@@ -381,6 +390,7 @@
         <script>
           $(document).ready(function () {
             // Init Sidenav
+            $('.modal').modal();
             $('.button-collapse').sideNav();
       
             // Init Scrollspy
