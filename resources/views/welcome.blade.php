@@ -89,7 +89,7 @@
         <div class="section-boxes center">
           <div class="row">
             <div class="col s12 m6 l3 blue white-text box">
-              <i class="material-icons medium">show_chart</i>
+              <i class="material-icons medium">timeline</i>
               <h4>入籍申请</h4>
             </div>
             <div class="col s12 m6 l3 purple white-text box">
@@ -97,7 +97,7 @@
               <h4>签证申请</h4>
             </div>
             <div class="col s12 m6 l3 teal white-text box">
-              <i class="material-icons medium">verified_user</i>
+              <i class="material-icons medium">attach_money</i>
               <h4>会计税务</h4>
             </div>
             <div class="col s12 m6 l3 amber darken-4 white-text box">
