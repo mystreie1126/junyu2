@@ -11,7 +11,7 @@
         <!--Import materialize.css-->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
         <link rel="stylesheet" href="{{URL::asset('css/style/main.css')}}">
-        <title>凤凰移民</title>
+        <title>爱尔兰凤凰移民</title>
     </head>
     <body id="home" class="scrollspy">
         <header class="main-header">
@@ -20,7 +20,7 @@
               <nav class="transparent">
                 <div class="container">
                   <div class="nav-wrapper">
-                    <a href="#home" class="brand-logo">凤凰移民</a>
+                    <a href="#home" class="brand-logo">爱尔兰凤凰移民</a>
                     <a href="#" data-activates="mobile-nav" class="button-collapse">
                       <i class="material-icons">menu</i>
                     </a>
@@ -44,7 +44,7 @@
             </div>
             <!-- Side nav -->
             <ul class="side-nav" id="mobile-nav">
-              <h4 class="blue-grey-text center">凤凰移民</h4>
+              <h4 class="blue-grey-text center">爱尔兰凤凰移民</h4>
               <li>
                 <a href="#visa">签证申请</a>
                   </li>
@@ -89,7 +89,7 @@
         <div class="section-boxes center">
           <div class="row">
             <div class="col s12 m6 l3 blue white-text box">
-              <i class="material-icons medium">timeline</i>
+              <i class="material-icons medium">business</i>
               <h4>入籍申请</h4>
             </div>
             <div class="col s12 m6 l3 purple white-text box">

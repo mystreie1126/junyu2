@@ -39,6 +39,7 @@
   .list_items{
     display: block;
     margin-bottom: 5px;
+    text-align: left;
   }
   
   section:not(:first-of-type){
