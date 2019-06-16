@@ -421,7 +421,7 @@
           <div class="footer-copyright blue-grey darken-4">
             <div class="container">
                     凤凰移民 © 2019
-              <a class="grey-text text-lighten-4 right" href="#!">
+              <a class="grey-text text-lighten-4 right" href="#home">
                 <i class="material-icons left">keyboard_arrow_up</i>回到顶部
               </a>
             </div>
