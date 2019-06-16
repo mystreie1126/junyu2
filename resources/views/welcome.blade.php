@@ -74,7 +74,7 @@
                     </div>
                   
                   
-                  <p class="flow-text">凤凰移民服务有限公司成立于2019年是爱尔兰第一家综合性移民服务公司。公司本着诚信、专业的服务宗旨，致力于打造成爱尔兰最完整的服务平台，为在爱的新老移民提供高效率全方面的服务。</p>
+                  <p class="flow-text">凤凰移民服务公司成立于2019年是爱尔兰第一家综合性移民服务公司。公司本着诚信、专业的服务宗旨，致力于打造成爱尔兰最完整的服务平台，为在爱的新老移民提供高效率全方面的服务。</p>
                  {{--  <a class="btn red btn-large right" id="immigration" href="#apply_immigration">凤凰移民入籍专家</a></p> --}}
                   <a class="waves-effect waves-light btn-large modal-trigger  white black-text" href="#modal1">为什么选择我们</a>
 
@@ -91,7 +91,7 @@
   <!-- Modal Structure -->
   <div id="modal1" class="modal">
     <div class="modal-content">
-      <p>凤凰移民服务有限公司是爱尔兰第一家<span class="green-text green-darken-1">综合性移民服务机构</span>, 我们的团队成员在各领域都有多年的工作经验和丰富的专业知识，熟知入籍政策及其它签证条款。我们与移民局，劳工部，社会福利局等相关部门保持着紧密的沟通，
+      <p>凤凰移民服公司是爱尔兰第一家<span class="green-text green-darken-1">综合性移民服务机构</span>, 我们的团队成员在各领域都有多年的工作经验和丰富的专业知识，熟知入籍政策及其它签证条款。我们与移民局，劳工部，社会福利局等相关部门保持着紧密的沟通，
         第一时间掌握最新官方政策动向，并结合您的自身情况设计出最有效可行的解决方案。</p>
     </div>
 
@@ -388,7 +388,7 @@
             <div class="row">
               <div class="col s12 m6 offset-m8">
                 <div class="card-panel z-depth-5" id="address">
-                        <p class="bold center">爱尔兰凤凰移民服务有限公司<br>Ireland Phoenix Immigrant Services Ltd</p>
+                        <p class="bold center">爱尔兰凤凰移民服务公司<br>Ireland Phoenix Immigrant Services Ltd</p>
                         <span class="list_items"><span class="indigo-text bold">地址:</span>41 Dominick Street Lower,Rounda,Dublin 1</span>
                         <span class="list_items"><span class="indigo-text bold">办公时间:</span>周一至周五 10点至5点</span>
                         <span class="list_items"><span class="indigo-text bold">预约电话:</span>01-5673385 or 0873498888</span>
