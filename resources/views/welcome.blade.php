@@ -388,7 +388,7 @@
             <div class="row">
               <div class="col s12 m6 offset-m8">
                 <div class="card-panel z-depth-5" id="address">
-                        <p class="bold center">爱尔兰凤凰移民服务公司<br>Ireland Phoenix Immigrant Services Ltd</p>
+                        <p class="bold center">爱尔兰凤凰移民服务公司<br>Ireland Phoenix Immigrant Services</p>
                         <span class="list_items"><span class="indigo-text bold">地址:</span>41 Dominick Street Lower,Rounda,Dublin 1</span>
                         <span class="list_items"><span class="indigo-text bold">办公时间:</span>周一至周五 10点至5点</span>
                         <span class="list_items"><span class="indigo-text bold">预约电话:</span>01-5673385 or 0873498888</span>
