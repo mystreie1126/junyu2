@@ -63,17 +63,14 @@
               <div class="row">
                 <div class="col s12 ">
                   <h1>凤凰移民服务公司</h1>
-                    
-                    <div style="display:flex; align-items: center;justify-content: space-between; flex-wrap: wrap">
-                     
-                       
 
-                        <p style="font-size: 1.3rem" class="red darken-3 white-text bold">凤凰移民服务重磅推出：规划入籍，签证申请不成功，不收费！！！</p>
+                    <div style="display:flex; align-items: center;justify-content: space-between; flex-wrap: wrap">
+
 
                          <a class=" waves-effect waves-light btn-large modal-trigger red darken-4 white-text " href="#modal2"><i class="material-icons left">assignment</i>爱尔兰移民市场分析</a>
                     </div>
-                  
-                  
+
+
                   <p class="flow-text">凤凰移民服务公司成立于2019年是爱尔兰第一家综合性移民服务公司。公司本着诚信、专业的服务宗旨，致力于打造成爱尔兰最完整的服务平台，为在爱的新老移民提供高效率全方面的服务。</p>
                  {{--  <a class="btn red btn-large right" id="immigration" href="#apply_immigration">凤凰移民入籍专家</a></p> --}}
                   <a class="waves-effect waves-light btn-large modal-trigger  white black-text" href="#modal1">为什么选择我们</a>
@@ -135,17 +132,15 @@
           <div class="container">
              <div>
                <h4 class="center">入籍申请服务</h4>
-            <h5 class="red-text center" style="font-weight: 800">有困难，找凤凰，不成功，不收费!</h5>
-             
-             <p class="bold underline">1.凤凰移民服务“不成功，不收费”的服务承诺:</p>
-             <p>为了让大家在以后的各种移民服务和签证申请过程中少走些弯路，不再上当受骗，我们凤凰移民服务对广大在爱同胞做出“不成功，不收费”的郑重承诺。</p>
+             <p class="bold underline">1.凤凰移民服务宗旨:</p>
+             {{-- <p>为了让大家在以后的各种移民服务和签证申请过程中少走些弯路，不再上当受骗，我们凤凰移民服务对广大在爱同胞做出“不成功，不收费”的郑重承诺。</p> --}}
              <p>
-               我们凤凰资质齐全，专业且专注，客观公正，以人为本。“不成功，不收费”承诺的自信源自于我们最优秀最专业的律师团队。我们的精英律师团队有着多年的移民案例经验，会根据您的实际情况为您量身定制专属方案，并为您提供最全面完善的服务。
+               我们凤凰资质齐全，专业且专注，客观公正，以人为本。我们的精英律师团队有着多年的移民案例经验，会根据您的实际情况为您量身定制专属方案，并为您提供最全面完善的服务。
              </p>
              <p>
                您选择了凤凰就是选择了成功，选择了最专业的服务，凤凰移民服务可以让您省事、省心、省力，一步到位，事半功倍，即享受了平民合理的优惠价格，又得到了贵族的专业服务体验。
              </p>
-              
+
               <p  class="bold underline">2.为什么选择我们凤凰移民服务的规划入籍、签证申请服务:</p>
               <p>我们的移民顾问和律师团队获得了由Law Society of Ireland颁发的移民法案/条款资格证书，拥有十多年的规划入籍、签证申请经验，同时与移民局部门保持着紧密的沟通，第一时间掌握最新官方政策动向，我们的规划入籍、移民签证团队会根据您的具体情况，为您提供最有效的申请方式。</p>
 
