@@ -391,7 +391,7 @@
                     <div class="col s9">
 
                         <span class="list_items"><span class="indigo-text bold">网址:</span>www.irelandphoenix.ie</span>
-                        <span class="list_items"><span class="indigo-text bold">邮箱:</span>info@irelandphoenix.ie</span>
+                        <span class="list_items"><span class="indigo-text bold">邮箱:</span>irelandphoenix2019@gmail.com</span>
                         <span class="list_items"><span class="indigo-text bold">微信号:</span>Ireland-phoenix</span>
                         <span class="list_items"><span class="indigo-text bold">微信公众号:</span>Irelandphoenix爱尔兰凤凰移民服务</span>
                     </div>
@@ -415,7 +415,7 @@
 
           <div class="footer-copyright blue-grey darken-4">
             <div class="container">
-                    凤凰移民 © 2019
+                    凤凰移民 © 2020
               <a class="grey-text text-lighten-4 right" href="#home">
                 <i class="material-icons left">keyboard_arrow_up</i>回到顶部
               </a>
