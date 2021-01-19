@@ -13,6 +13,7 @@
         <link rel="stylesheet" href="{{URL::asset('css/style/main.css')}}">
         <title>爱尔兰凤凰移民</title>
     </head>
+   
     <body id="home" class="scrollspy">
         <header class="main-header">
           <div class="primary-overlay">
@@ -35,7 +36,7 @@
                         <a href="#visa">会计税务</a>
                       </li>
                       <li>
-                        <a href="#other">其他服务</a>
+                        <a href="#other">律师服务</a>
                       </li>
                     </ul>
                   </div>
@@ -122,7 +123,7 @@
             </div>
             <div class="col s12 m6 l3 amber darken-4 white-text box">
               <i class="material-icons medium">account_balance</i>
-              <h4>其它服务</h4>
+              <h4>律师服务</h4>
             </div>
           </div>
         </div>
@@ -336,20 +337,15 @@
 
 
         <div class="col s12 ">
-          <h4 >其它服务</h4>
+          <h4 >律师服务</h4>
               <div class="row">
-                  <p class="service_details col s3"><i class="material-icons teal-text">star</i>地接服务</span></p>
-                  <p class="service_details col s3"><i class="material-icons teal-text">star</i>购车服务</span></p>
-                  <p class="service_details col s3"><i class="material-icons teal-text">star</i>购房服务</span></p>
-                  <p class="service_details col s3"><i class="material-icons teal-text">star</i>房屋装修服务</span></p>
-                  <p class="service_details col s3"><i class="material-icons teal-text">star</i>工作权利</span></p>
-                  <p class="service_details col s3"><i class="material-icons teal-text">star</i>未成年子女监护人服务</span></p>
-                  <p class="service_details col s3"><i class="material-icons teal-text">star</i>移民局签证注册服务</span></p>
-                  <p class="service_details col s3"><i class="material-icons teal-text">star</i>本地银行开户服务</span></p>
-                  <p class="service_details col s3"><i class="material-icons teal-text">star</i>家庭医生注册服务</span></p>
-                  <p class="service_details col s3"><i class="material-icons teal-text">star</i>个人/家庭保险购买服务</span></p>
-                  <p class="service_details col s3"><i class="material-icons teal-text">star</i>驾驶培训/驾照申请服务</span></p>
-                  <p class="service_details col s4"><i class="material-icons teal-text">star</i>个人税号PPS号码申请服务</span></p>
+              <p class="service_details col s8"><i class="material-icons teal-text">star</i>房屋买卖, 商业店铺lease/合同签署</span></p>
+
+                  <p class="service_details col s4"><i class="material-icons teal-text">star</i>婚姻法, 分居协议, 赡养费, 离婚</span></p>
+
+                  <p class="service_details col s8"><i class="material-icons teal-text">star</i>劳工法, 拖欠工资/holiday payment, 遣散费, 不公平解雇</span></p>
+                  <p class="service_details col s4"><i class="material-icons teal-text">star</i>工伤事故, 交通事故</span></p>
+
 
 
               </div>
@@ -368,48 +364,25 @@
 
 
         </div>
+
+
+
           </div>
       </section>
 
-
-
-        <!-- Section: Testimonials -->
-
-
-        <!-- Section: Contact -->
-        <section id="contact" class="section section-contact center scrollspy">
-          <div id="googlemap"></div>
-          <div class="container">
-            <div class="row">
-              <div class="col s12 m6 offset-m8">
-                <div class="card-panel z-depth-5" id="address">
-                        <p class="bold center">爱尔兰凤凰移民服务公司<br>Ireland Phoenix Immigrant Services</p>
-                        <span class="list_items"><span class="indigo-text bold">地址:</span>41 Dominick Street Lower,Rounda,Dublin 1</span>
-                        <span class="list_items"><span class="indigo-text bold">办公时间:</span>周一至周五 10点至5点</span>
-                        <span class="list_items"><span class="indigo-text bold">预约电话:</span>01-5673385 or 0873498888</span>
-                <div class="row">
-                    <div class="col s9">
-
-                        <span class="list_items"><span class="indigo-text bold">网址:</span>www.irelandphoenix.ie</span>
-                        <span class="list_items"><span class="indigo-text bold">邮箱:</span>irelandphoenix2019@gmail.com</span>
-                        <span class="list_items"><span class="indigo-text bold">微信号:</span>Ireland-phoenix</span>
-                        <span class="list_items"><span class="indigo-text bold">微信公众号:</span>Irelandphoenix爱尔兰凤凰移民服务</span>
-                    </div>
-                    <div class="col s3" id="qr">
-                        <img src="{{URL::asset('img/qr.jpeg')}}" alt="">
-                    </div>
-
-                </div>
-
-
-
-
-                </div>
-              </div>
-            </div>
+         <section id="contact" class="section section-contact center scrollspy" style="display:flex; justify-content:space-around" >
+          <div id="googlemap" style="height:500px"></div>
+          <div class="" style="display:flex; flex-direction:column; justify-content:space-between;  text-align:center">
+          <img src="{{URL::asset('img/1.png')}}" class="info-img-1">
+          <div style="display:flex;  ">
+            <img src="{{URL::asset('img/2.png')}}" class="info-img-2">
+            <img src="{{URL::asset('img/3.png')}}" class="info-img-3"> 
           </div>
-        </section>
 
+        
+        </section>
+       
+        
         <!-- Footer -->
         <footer class="page-footer blue-grey darken-4">
 
